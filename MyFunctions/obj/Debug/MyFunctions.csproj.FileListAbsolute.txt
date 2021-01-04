@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\Variants\Variant6\MyFunctions\bin\Debug\MyFunctions.dll
+C:\Users\user\Desktop\Variants\Variant6\MyFunctions\bin\Debug\MyFunctions.pdb
+C:\Users\user\Desktop\Variants\Variant6\MyFunctions\obj\Debug\MyFunctions.dll
+C:\Users\user\Desktop\Variants\Variant6\MyFunctions\obj\Debug\MyFunctions.pdb
+C:\Users\user\Desktop\Variants\Variant6\MyFunctions\obj\Debug\MyFunctions.csprojResolveAssemblyReference.cache
